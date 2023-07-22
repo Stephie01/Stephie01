@@ -17,8 +17,11 @@ Communication: Present complex findings to technical and non-technical audiences
 
  💞️ Let's connect and explore how we can drive success together!
   
-- 📫 Email: [stephmbithe10@gmail.com]
-LinkedIn: [(https://www.linkedin.com/in/stephanie-mbithe-b76944269/)]
+[![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stephie01)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-mbithe-b76944269/)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephmbithe10@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/darlin_steph/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@MbithMbithe)
 
 <!---
 Stephie01/Stephie01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
